@@ -1,4 +1,4 @@
-def meat_choice(food = "meat")
+def meal_choice(food = "meat")
  
  food
  binding.pry 
