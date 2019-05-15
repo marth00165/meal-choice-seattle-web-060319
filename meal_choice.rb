@@ -1,5 +1,6 @@
-def meat_choice("meat")
-  
+def meat_choice(food = "meat")
+ 
+ food
   
 end
   # Define a method meal_choice that returns the meal_choice that was
